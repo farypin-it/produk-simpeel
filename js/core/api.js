@@ -21,7 +21,7 @@ function normalizeGasExecUrl(value) {
 const TENANT_CONFIG = {
     "sman15tebo": "https://script.google.com/macros/s/AKfycbyv3ywGlDxKey0je56S_gPICKchJVj__wngtDS_aFTiBwrrD7G_UOLVsmHgH_Wc8RlD/exec",
     "sman1tebo": "https://script.google.com/macros/s/AKfycbz0GU8_EqeadjKiIECkgEOM4XjlYdNi_tPOeui3n0svqlzSITG9RKymCxoSuBnexh1D/exec",
-    "sman2tebo": "https://script.",
+    "sman2tebo": "https://script.google.com/macros/s/AKfycbw35Glj-i2zEdjY2WjsMHbzHXAcZHPGZ4img8Ywyp50UeSd0O2-wZGvz08sDGiNAICPqg/exec",
     "sman5tebo": "https://script.google.com/macros/s/AKfycbyBqII-MbMzDRAYWi1C99AJxiSOlwbFn1vduyreqoja9otAxFPCNWuLz11y_yMCs2Ge/exec",
     "sman17tebo": "https://script.google.com/macros/s/AKfycbwLlCp9e1rh8hcqAoDW5bheLSDAbmRW4cD0EVN5twxBd77mGcfLRUgZBpKSbXyUdLVa/exec",
     "sman19tebo": "https://script.google.com/macros/s/AKfycbzpysdp5rQBtGP3_bxm-lT2RVX47-NeUMJMWuvK1BM3k_VL_kk1u6B0i7dgG_vkuP5cTg/exec",
