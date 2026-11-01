@@ -20,14 +20,14 @@ function normalizeGasExecUrl(value) {
 // Online Config
 const TENANT_CONFIG = {
     "sman15tebo": "https://script.google.com/macros/s/AKfycbyv3ywGlDxKey0je56S_gPICKchJVj__wngtDS_aFTiBwrrD7G_UOLVsmHgH_Wc8RlD/exec",
-    "sman1tebo": "https://script.google.com/macros/s/AKfycbwvsepHAdvmu9sUO7ORBIF22gQzjskD8sW4Hz9wMso_QKkn3hhb7HM6_U31o_Tvrt-K/exec",
+    "sman1tebo": "https://script.google.com/macros/s/AKfycbz0GU8_EqeadjKiIECkgEOM4XjlYdNi_tPOeui3n0svqlzSITG9RKymCxoSuBnexh1D/exec",
     "sman2tebo": "https://script.",
-    "sman5tebo": "https://script.google.com/macros/s/AKfycbzII447MzaxN2qp_VhNiPNcX3MGrHpd3ZjZZt-POxA4cNJzW4t53oDkQmNwO4J8QzL9/exec",
-    "sman17tebo": "https://script.google.com/macros/s/AKfycbwElL6neY_u_xZ1FogBkHVMJXl25RFt0L1LubvPIDFi7IcVRM8lnabA2gDQvgBJT1rp/exec",
-    "sman19tebo": "https://script.google.com/macros/s/AKfycbzGPy02l07knZFdj1-nGJE9_MI9OsqQkaVMtcltHUIB0EIXXRw2Q4N-hMPULu24Eql9Bg/exec",
+    "sman5tebo": "https://script.google.com/macros/s/AKfycbyBqII-MbMzDRAYWi1C99AJxiSOlwbFn1vduyreqoja9otAxFPCNWuLz11y_yMCs2Ge/exec",
+    "sman17tebo": "https://script.google.com/macros/s/AKfycbwLlCp9e1rh8hcqAoDW5bheLSDAbmRW4cD0EVN5twxBd77mGcfLRUgZBpKSbXyUdLVa/exec",
+    "sman19tebo": "https://script.google.com/macros/s/AKfycbzpysdp5rQBtGP3_bxm-lT2RVX47-NeUMJMWuvK1BM3k_VL_kk1u6B0i7dgG_vkuP5cTg/exec",
     "smkn1tebo": "https://script.",
-    "smkn2tebo": "https://script.google.com/macros/s/AKfycbw1Frh0DtZe_ufApMunaFDrhnP1zQTb6yn1JXOCxRoqd4RJ299unugZS4dlFGRQ17qgMA/exec",
-    "slbntebo": "https://script.google.com/macros/s/AKfycbwK_UewSi62ApONPzz9XyfFiQviAHrG0b7sPP8cyk4Esj2XqNaezN-4muyMW8W5rW0Ymg/exec",
+    "smkn2tebo": "https://script.google.com/macros/s/AKfycbzAqqe7Sg2SntYcsKFXD4lVm0q6T0kJ9cJ9KHwx6yfVPQRt5DvEPyCtjmOZ_kZm4ujBxQ/exec",
+    "slbntebo": "https://script.google.com/macros/s/AKfycbz44keaEWFDLd703EVm2Ziy_ldc5sBBEk__O86X-QBIVrHt6Prru82nOdY5Td5gccHWyQ/exec",
     "dinas": ""
 };
 
